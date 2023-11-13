@@ -1,0 +1,20 @@
+.links-aside {
+    height: 10rem;
+    margin-right: .5rem;
+    margin-bottom: .875rem;
+    padding: .875rem;
+    border-radius: 8px;
+    background: var(--main-bg-color);
+}
+
+.links-aside ul {
+    list-style: none;
+}
+
+.libary-playlist {
+    height: 27rem;
+    margin-right: .5rem;
+    padding: .875rem;
+    border-radius: 8px;
+    background: var(--main-bg-color);
+}
