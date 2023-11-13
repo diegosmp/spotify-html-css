@@ -7,7 +7,7 @@
 
 ![CSS](/public/logoCss.png)
 
-![JS](/public/logoJs.png)
+![JS](/public/logoJs.webp)
 
 
 *Para estudos com HTML, CSS e JS*
